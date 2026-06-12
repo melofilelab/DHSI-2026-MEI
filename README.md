@@ -10,6 +10,7 @@ This is a sample of sketches, drafts, and completed works from my music composit
 [Piano Prelude 2](https://melofilelab.github.io/DHSI-2026-MEI/verovio-piano-prelude-2.html)<br>
 [Piano Prelude 3](https://melofilelab.github.io/DHSI-2026-MEI/verovio-piano-prelude-3.html)<br>
 [Brass Quintet I](https://melofilelab.github.io/DHSI-2026-MEI/verovio-brass-quintet1.html)<br>
+[Brass Quintet II](https://melofilelab.github.io/DHSI-2026-MEI/verovio-brass-quintet2.html)<br>
 [Four Rivers](https://melofilelab.github.io/DHSI-2026-MEI/verovio-four-rivers.html)<br>
 [Master Thesis The LTJ I (Full Score)](https://melofilelab.github.io/DHSI-2026-MEI/verovio-LTJ-full-score.html)<br>
 [Master Thesis The LTJ II (Full Score)](https://melofilelab.github.io/DHSI-2026-MEI/verovio-LTJ-2-full-score.html)
